@@ -1,7 +1,7 @@
 @extends('layouts.base')
 
 @section('title-head')
-    <title>Dashboard | cPanel</title>
+    <title>Availability | cPanel</title>
 @endsection
 
 
@@ -36,7 +36,7 @@
                         <div class="widget" style="position: relative;">
                             <span class="pulse-indicator-fixed"></span>
                             <div class="widget-content text-center">
-                                <h1 style="text-align: center">SIMOJA UKT 2</h1>
+                                <h1 style="text-align: center">ASET UKT 2</h1>
                                 <img src="{{ asset('assets/img/ukt2logo.png') }}" alt="Logo SIMOJA"
                                     style="max-width: 180px; height: auto; display: block; margin: 0 auto 1rem;">
                                 <p>

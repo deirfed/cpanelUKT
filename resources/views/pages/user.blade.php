@@ -1,7 +1,7 @@
 @extends('layouts.base')
 
 @section('title-head')
-    <title>Dashboard | cPanel</title>
+    <title>Users | cPanel</title>
 @endsection
 
 
